@@ -1,0 +1,6 @@
+s1="Two Wheeler"
+s2="Two wheeler"
+if(s1==s2):
+    print("same")
+else:
+    print("different")
